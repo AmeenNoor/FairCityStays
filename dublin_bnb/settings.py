@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dublin-bnb.herokuapp.com', '8000-ameennoor-dublin-bnb-7il82f1ebx.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['dublin-bnb-d012084d61e3.herokuapp.com', '8000-ameennoor-dublin-bnb-7il82f1ebx.us2.codeanyapp.com']
 
 
 # Application definition
